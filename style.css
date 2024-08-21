@@ -1,0 +1,16 @@
+body{
+    background: rgb(79, 80, 76);
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+button{
+    color: azure;
+    background: rgb(2, 2, 2);
+    border-radius: 30px;
+}
+.card{
+    text-align: center;
+    border-radius: 40px solid red;
+padding: 30px;
+}
